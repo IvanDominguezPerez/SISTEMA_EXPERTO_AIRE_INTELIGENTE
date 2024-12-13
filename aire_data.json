@@ -1,0 +1,86 @@
+{
+    "Marcas de Aire": [
+        {
+            "name": "MIDEA",
+            "description": "Midea es una de las marcas l\u00edderes en el mercado de electrodom\u00e9sticos y climatizaci\u00f3n. Ofrecen equipos con tecnolog\u00eda innovadora, eficiencia energ\u00e9tica y precios competitivos. Tienen una amplia gama de productos, desde minisplits residenciales hasta soluciones comerciales."
+        },
+        {
+            "name": "CARRIER",
+            "description": "Carrier es considerada pionera en la industria del aire acondicionado. Ofrecen sistemas confiables y de alta calidad para uso residencial, comercial e industrial, destac\u00e1ndose por su durabilidad y eficiencia energ\u00e9tica."
+        },
+        {
+            "name": "DAIKIN",
+            "description": "Daikin es conocida por su tecnolog\u00eda avanzada y enfoque en la eficiencia energ\u00e9tica. Ofrecen soluciones innovadoras como sistemas inverter y productos respetuosos con el medio ambiente, siendo una de las marcas premium del mercado."
+        },
+        {
+            "name": "LG",
+            "description": "LG combina tecnolog\u00eda moderna y dise\u00f1o atractivo. Sus aires acondicionados incluyen caracter\u00edsticas como conectividad Wi-Fi y sistemas de purificaci\u00f3n de aire, adem\u00e1s de ser eficientes y silenciosos."
+        },
+        {
+            "name": "SAMSUNG",
+            "description": "Samsung es reconocida por su enfoque en la innovaci\u00f3n tecnol\u00f3gica. Ofrecen equipos con dise\u00f1os elegantes y caracter\u00edsticas avanzadas como control remoto mediante aplicaciones m\u00f3viles y sistemas de filtraci\u00f3n de aire."
+        },
+        {
+            "name": "TRANE",
+            "description": "XXX"
+        }
+    ],
+    "Tipos de Equipos": [
+        {
+            "name": "HI-WALL (MINISPLIT)",
+            "description": "Es el tipo m\u00e1s popular para uso residencial y peque\u00f1os comercios. Consta de una unidad interior que se instala en la pared y una unidad exterior. Ofrece buena eficiencia energ\u00e9tica y es adecuado para climatizar habitaciones individuales."
+        },
+        {
+            "name": "MULTISPLIT",
+            "description": "Un sistema que permite conectar varias unidades interiores (de diferentes tipos) a una sola unidad exterior. Es ideal para climatizar m\u00faltiples habitaciones sin necesidad de instalar varios compresores."
+        },
+        {
+            "name": "CASSETTE",
+            "description": "Dise\u00f1ado para instalarse en techos falsos, dejando visible solo un panel cuadrado. Ofrecen distribuci\u00f3n de aire en cuatro direcciones, lo que los hace ideales para oficinas, restaurantes o locales comerciales."
+        },
+        {
+            "name": "PISO-TECHO",
+            "description": "Puede instalarse en el piso o en el techo seg\u00fan la disposici\u00f3n del espacio. Es ideal para \u00e1reas grandes como salones o locales comerciales debido a su alta capacidad de enfriamiento."
+        },
+        {
+            "name": "PORTATIL",
+            "description": "Un equipo compacto y m\u00f3vil que no requiere instalaci\u00f3n fija. Es f\u00e1cil de trasladar entre habitaciones, aunque su capacidad de enfriamiento es menor y puede ser menos eficiente energ\u00e9ticamente."
+        }
+    ],
+    "Comprar Aire": [
+        {
+            "name": "MAS12H1ECS",
+            "description": "Minisplit EcoSaver-32 Inverter SEER 18, 1 Ton, Fr\u00edo Calor, 110V",
+            "cost": "8,000.00"
+        },
+        {
+            "name": "MAS12H2AGM",
+            "description": "Minisplit Xtreme Plus Save Inverter SEER 20.6, 1 Ton, Fr\u00edo Calor, 220V",
+            "cost": "10,500.00"
+        },
+        {
+            "name": "MAS12H1ECS",
+            "description": "Minisplit EcoSaver-32 Inverter SEER 18, 1 Ton, Fr\u00edo Calor, 110V",
+            "link": "https://tiendamx.midea.com/products/minisplit-ecosaver-32-inverter-seer-18-1-ton-frio-calor-110v",
+            "cost": "9,899.00 MX"
+        }
+    ],
+    "Mantenimientos": [
+        {
+            "name": "HI-WALL (MINISPLIT)",
+            "description": "https://www.youtube.com/watch?v=Xp2WH9PKEtw"
+        },
+        {
+            "name": "FAN AND COIL",
+            "description": "https://www.youtube.com/watch?v=KTAGXYiM34A"
+        },
+        {
+            "name": "PISO TECHO",
+            "description": "https://www.youtube.com/watch?v=Bbyr1Pi5vT4"
+        },
+        {
+            "name": "CASSETTE",
+            "description": "https://www.youtube.com/watch?v=CdcS7KwNGqg"
+        }
+    ]
+}
